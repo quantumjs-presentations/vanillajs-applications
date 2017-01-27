@@ -1,0 +1,11 @@
+pre code {
+  font-size: 125%;
+}
+
+pre {
+  overflow: auto;
+  max-height: 500px;
+}
+td{
+  font-size: 2.1rem !important;
+}
